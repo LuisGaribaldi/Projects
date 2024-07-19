@@ -1,2 +1,2 @@
 # Projects
-Former projects as IT Ops | RPA | Cloud Services
+Former projects as IT Operations Manager | RPA | Cloud Services
